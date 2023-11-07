@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import profilePicture from './assets/profile.webp';
+import profilePicture from './assets/profile.jpeg';
 
 function App() {
   const scrollToSection = (sectionId) => {
